@@ -4,6 +4,8 @@ A solution for tech leader.
 
 ## 研发体系
 
+React + ReactRouterDom
+
 ### 设计
 
 - StoryBook UI 组件
